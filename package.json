@@ -1,0 +1,27 @@
+{
+  "name": "utfprguia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@openspacelabs/react-native-zoomable-view": "^2.1.5",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.20",
+    "expo": "~49.0.13",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "expo-updates": "~0.18.17",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-vector-icons": "^10.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

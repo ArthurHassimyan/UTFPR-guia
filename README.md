@@ -1,7 +1,8 @@
 # UTFPRGuia
 
-<img src="https://github.com/AugustoBSimionato/utfprguia/assets/72254418/4576c592-cf0e-4d49-90a2-86513c7e28f8" />
-<img src="https://github.com/AugustoBSimionato/utfprguia/assets/72254418/7d4324d1-e3ca-497e-9b07-169f8320b24a" />
+![guia1](https://github.com/user-attachments/assets/2cd152b9-60af-41a1-9a14-430ba5757890)
+![guia2](https://github.com/user-attachments/assets/ea85a121-af52-411d-862b-03d802b09582)
+
 
 ## Descrição
 
@@ -17,18 +18,3 @@ Gerenciamento de Projetos de Software
 - ARTHUR HENRIQUE ABRANTES HASSIMYAN
 - AUGUSTO BARONI SIMIONATO
 - JOÃO VICTOR VIEIRA DOS ANJOS
-
-## Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-Git, Node.js, Expo e React-native CLI. 
-Além disto é bom ter um editor para trabalhar com o código como VSCode
-
-## Instalação
-
-Instruções de como instalar e configurar o projeto. Por exemplo:
-
-1. Clone este repositório.
-2. Instale as dependências com `npm install` na pasta do projeto.
-3. Inicie o servidor com `npx expo start`.
-4. Digite no terminal `a` para abrir simulador Android e `i` para abrir simulador iOS.
